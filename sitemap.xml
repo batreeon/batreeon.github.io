@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://batreeon.github.io/categories/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-30T22:43:13+08:00</lastmod>
   </url><url>
-    <loc>https://batreeon.github.io/</loc>
+    <loc>https://example.com/posts/first_post/</loc>
+    <lastmod>2022-10-30T22:43:13+08:00</lastmod>
   </url><url>
-    <loc>https://batreeon.github.io/tags/</loc>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2022-10-30T22:43:13+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
   </url>
 </urlset>
