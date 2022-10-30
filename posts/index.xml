@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Batreeon</title>
-    <link>https://example.com/posts/</link>
+    <link>https://batreeon.github.io/posts/</link>
     <description>Recent content in Posts on Batreeon</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 22:43:13 +0800</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 01:42:58 +0800</lastBuildDate><atom:link href="https://batreeon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
-      <link>https://example.com/posts/first_post/</link>
-      <pubDate>Sun, 30 Oct 2022 22:43:13 +0800</pubDate>
+      <link>https://batreeon.github.io/posts/first_post/</link>
+      <pubDate>Mon, 31 Oct 2022 01:42:58 +0800</pubDate>
       
-      <guid>https://example.com/posts/first_post/</guid>
-      <description>Hello World! welcome to my website.</description>
+      <guid>https://batreeon.github.io/posts/first_post/</guid>
+      <description>First post welcome to Batreeon&amp;rsquo;s site.</description>
     </item>
     
   </channel>
