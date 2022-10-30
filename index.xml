@@ -5,16 +5,6 @@
     <link>https://example.com/</link>
     <description>Recent content on Batreeon</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 30 Oct 2022 22:43:13 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First_post</title>
-      <link>https://example.com/posts/first_post/</link>
-      <pubDate>Sun, 30 Oct 2022 22:43:13 +0800</pubDate>
-      
-      <guid>https://example.com/posts/first_post/</guid>
-      <description>Hello World! welcome to my website.</description>
-    </item>
-    
+    <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
